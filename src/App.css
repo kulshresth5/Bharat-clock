@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.h{
+  font-weight: 700;
+  padding: 5px;
+}
+
+.pa{
+  font-size: larger;
+  font-weight: 400;
+  padding: 3px;
+}
+
+.t{
+  font-weight: 500;
+  font-size: x-large;
+  padding: 1px;
+}
